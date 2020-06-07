@@ -1,2 +1,2 @@
 # naive-bayes
- This is he naive-bayes process
+ This is the naive-bayes process
